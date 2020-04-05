@@ -15,6 +15,7 @@ import Jobs from './sections/jobs';
 import Featured from './sections/featured';
 import Projects from './sections/projects';
 import Contact from './sections/contact';
+// import canvas from './sections/canvas-nest.min';
 
 export {
   Head,
@@ -32,4 +33,5 @@ export {
   Projects,
   Contact,
   Footer,
+  // canvas,
 };

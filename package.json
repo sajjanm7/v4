@@ -1,11 +1,11 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "v4",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Sajjan Kumar <sajjan434@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/sajjanm7/v4"
   },
   "keywords": [
     "gatsby"
@@ -69,10 +69,10 @@
     "@upstatement/eslint-config": "0.4.3",
     "@upstatement/prettier-config": "^0.3.0",
     "babel-eslint": "^10.0.3",
-    "eslint": "^6.7.2",
+    "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react": "^7.19.0",
     "gatsby-remark-code-titles": "^1.1.0",
     "husky": "^3.1.0",
     "lint-staged": "^9.5.0",
