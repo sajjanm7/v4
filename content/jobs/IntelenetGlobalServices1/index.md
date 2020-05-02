@@ -3,12 +3,11 @@ date: '2015-02-09'
 title: 'IT Analyst'
 company: 'Teleperformance'
 location: 'Hyderabad, India'
-range: 'Feb 2015 – Jul 2016'
+range: 'Feb 2015 – Dec 2016 (Client: Google India)'
 url: 'https://www.teleperformance.in/en-us/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Worked for Teleperformace supporting a Google Project in Testing multiple Google Products
+- Filed Multiple Bugs to fix critical bugs in few Google Products
 
 ---

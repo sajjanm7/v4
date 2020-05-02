@@ -34,19 +34,21 @@ const IconLogo = () => (
         id="S"
         transform="translate(32,36)"
         // fill="#64FFDA"
-        fill="#4c8bf5"
+        //fill="#4c8bf5" // Chrome blue
+        fill="#4691f6"
         fontFamily="Lexend+Deca, Calibre-Medium, Calibre"
         fontSize="60"
         fontWeight="500"
         letterSpacing="4.16666603">
         <text>
-          <tspan x="0.141666985" y="33">
+          <tspan x="0.141666985" y="35">
             S
           </tspan>
         </text>
       </g>
       <path
-        stroke="#4c8bf5"
+        // stroke="#4c8bf5" // chrome blue
+        stroke="#4691f6"
         // stroke="#64FFDA"
         strokeWidth="5"
         strokeLinecap="round"

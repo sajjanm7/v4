@@ -4,7 +4,7 @@ import { FormattedIcon } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media } from '@styles';
-const { colors, fontSizes, fonts } = theme;
+const { colors, fonts } = theme; //fontSizes,
 
 const StyledContainer = styled.footer`
   ${mixins.flexCenter};
@@ -39,7 +39,7 @@ const StyledSocialLink = styled.a`
 `;
 const StyledMetadata = styled.div`
   font-family: ${fonts.SFMono};
-  font-size: ${fontSizes.xs};
+  font-size: 12px;
   line-height: 1;
 `;
 const StyledGitHubLink = styled.a`

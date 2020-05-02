@@ -2,4 +2,4 @@
 title: 'Get In Touch'
 ---
 
-Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!
+Ain't it amazing meeting people? Whether for a project or just to say Hi. Just hit me up. I usually respond within few hours.

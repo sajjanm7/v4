@@ -3,12 +3,11 @@ date: '2016-07-01'
 title: 'POD Lead'
 company: 'Teleperformance'
 location: 'Hyderabad, India'
-range: 'Jul 2016 – Apr 2017'
+range: 'Dec 2015 – Dec 2016 (Client: Google India)'
 url: 'https://www.teleperformance.in/en-us/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Training New hiers in the team on the Different Google Products
+- Escalating High priority bugs to the relevent Engineers in the Google Team
 
 ---

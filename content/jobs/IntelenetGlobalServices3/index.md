@@ -3,12 +3,14 @@ date: '2017-04-01'
 title: 'Team Lead'
 company: 'Teleperformance'
 location: 'Hyderabad, India'
-range: 'Apr 2017 – Apr 2019 '
+range: 'Dec 2016 – Aug 2019 (Client: Google India)'
 url: 'https://www.teleperformance.in/en-us/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Managed a team of thirty members
+- Provided end to end data analysis with adequate reasoning and probabilities for any operational challenges
+- Ensured logical and calculated approach towards meeting weekly team targets (Productivity & Quality)
+- Conduct the team meetings to identify calibration issues
+- Identify potential grey areas and design action plans to weed out potential low performers
 
 ---
