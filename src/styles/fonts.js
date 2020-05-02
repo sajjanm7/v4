@@ -44,6 +44,8 @@ import SFMonoSemiboldItalicTTF from '@fonts/SFMono/SFMono-SemiboldItalic.ttf';
 import SFMonoSemiboldItalicWOFF from '@fonts/SFMono/SFMono-SemiboldItalic.woff';
 import SFMonoSemiboldItalicWOFF2 from '@fonts/SFMono/SFMono-SemiboldItalic.woff2';
 
+import LexendDeca from '@fonts/LexendDeca/LexendDeca-Regular.ttf';
+
 const FontFaces = css`
   @font-face {
     font-family: 'Calibre';
@@ -149,6 +151,12 @@ const FontFaces = css`
       url(${SFMonoSemiboldItalicTTF}) format('truetype');
     font-weight: 600;
     font-style: italic;
+  }
+  @font-face {
+    font-family: 'LexendDeca';
+    src: url(${LexendDeca}) format('truetype');
+    font-weight: 200;
+    font-style: normal;
   }
 `;
 

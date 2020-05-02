@@ -14,7 +14,8 @@ const IconLoader = () => (
       <g
         id="S"
         transform="translate(34, 33)"
-        fill="#64FFDA"
+        fill="#4c8bf5"
+        // fill="#64FFDA"
         fontFamily="Calibre-Medium, Calibre"
         fontSize="60"
         fontWeight="500"
@@ -27,7 +28,8 @@ const IconLoader = () => (
       </g>
 
       <path
-        stroke="#64FFDA"
+        stroke="#4c8bf5"
+        // stroke="#64FFDA"
         strokeWidth="5"
         strokeLinecap="round"
         strokeLinejoin="round"

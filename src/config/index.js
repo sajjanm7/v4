@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/sajjanm7',
+      url: 'https://codepen.io/sajjan',
     },
     {
       name: 'Instagram',

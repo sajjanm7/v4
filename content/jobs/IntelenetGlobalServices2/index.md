@@ -1,7 +1,7 @@
 ---
-date: '2018-04-01'
+date: '2016-07-01'
 title: 'POD Lead'
-company: 'Tele Performance'
+company: 'Teleperformance'
 location: 'Hyderabad, India'
 range: 'Jul 2016 – Apr 2017'
 url: 'https://www.teleperformance.in/en-us/'

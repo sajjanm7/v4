@@ -33,7 +33,8 @@ const IconLogo = () => (
       <g
         id="S"
         transform="translate(32,36)"
-        fill="#64FFDA"
+        // fill="#64FFDA"
+        fill="#4c8bf5"
         fontFamily="Lexend+Deca, Calibre-Medium, Calibre"
         fontSize="60"
         fontWeight="500"
@@ -45,7 +46,8 @@ const IconLogo = () => (
         </text>
       </g>
       <path
-        stroke="#64FFDA"
+        stroke="#4c8bf5"
+        // stroke="#64FFDA"
         strokeWidth="5"
         strokeLinecap="round"
         strokeLinejoin="round"

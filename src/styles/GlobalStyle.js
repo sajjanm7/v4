@@ -32,6 +32,7 @@ const GlobalStyle = createGlobalStyle`
     color: ${colors.slate};
     line-height: 1.3;
     font-family: ${fonts.Calibre};
+    // font-family: ${fonts.LexendDeca};
     font-size: ${fontSizes.xl};
     ${media.phablet`font-size: ${fontSizes.lg};`}
 

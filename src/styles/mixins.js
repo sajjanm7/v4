@@ -64,7 +64,7 @@ const mixins = {
       height: 1px;
       position: relative;
       bottom: 0.37em;
-      background-color: ${colors.green};
+      background-color: ${colors.white};
       transition: ${theme.transition};
       opacity: 0.5;
     }

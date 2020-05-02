@@ -2,17 +2,19 @@
   <img alt="Logo" src="src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  Sajjan Kumar M
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The Initial Version of my  <a href="https://sajjanm7.netlify.com/" target="_blank">Persoanl Website</a> forked from <a href="https://github.com/bchiang7/v4" target="_blank">Brittany Chiang's project</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
+<!--
 <p align="center">
   Previous iterations:
   <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
   <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
   <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
 </p>
+-->
 <p align="center">
   <a href="https://app.netlify.com/sites/sajjanm7/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/c8ea6352-b28a-41f6-9984-9870d64e2ac0/deploy-status" alt="Netlify Status" />

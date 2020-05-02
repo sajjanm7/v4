@@ -1,9 +1,9 @@
 ---
-date: '2018-04-01'
-title: 'Team Lead'
-company: 'Tele Performance'
+date: '2015-02-09'
+title: 'IT Analyst'
+company: 'Teleperformance'
 location: 'Hyderabad, India'
-range: 'Apr 2017 – Apr 2019 '
+range: 'Feb 2015 – Jul 2016'
 url: 'https://www.teleperformance.in/en-us/'
 ---
 
