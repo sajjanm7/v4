@@ -3,7 +3,7 @@ date: '2015-02-09'
 title: 'IT Analyst'
 company: 'Teleperformance'
 location: 'Hyderabad, India'
-range: 'Feb 2015 – Dec 2016 (Client: Google India)'
+range: 'Feb 2015 – Dec 2015 (Client: Google India)'
 url: 'https://www.teleperformance.in/en-us/'
 ---
 
