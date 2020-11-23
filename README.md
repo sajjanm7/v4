@@ -5,7 +5,7 @@
   Sajjan Kumar M
 </h1>
 <p align="center">
-  The Initial Version of my  <a href="https://sajjanm7.netlify.com/" target="_blank">Persoanl Website</a> forked from <a href="https://github.com/bchiang7/v4" target="_blank">Brittany Chiang's project</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The Initial Version of my  <a href="https://www.sajjan.info/" target="_blank">Persoanl Website</a> forked from <a href="https://github.com/bchiang7/v4" target="_blank">Brittany Chiang's project</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <!--
 <p align="center">
