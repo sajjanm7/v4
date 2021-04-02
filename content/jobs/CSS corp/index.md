@@ -1,10 +1,10 @@
 ---
-date: '2019-09-13'
-title: 'Group Lead'
-company: 'Wipro Limited'
+date: '2021-03-24'
+title: 'Lead'
+company: 'CSS Corp'
 location: 'Hyderabad, India'
-range: 'Sep 2019 - March 2021 (Client: Google India)'
-url: 'https://www.wipro.com/'
+range: 'March 2021 - Present (Client: Google India)'
+url: 'https://www.csscorp.com/'
 ---
 
 - Managed a team of thirty five members
