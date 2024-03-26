@@ -1,10 +1,10 @@
 ---
 date: '2021-03-24'
 title: 'Lead'
-company: 'CSS Corp'
+company: 'Movate Technologies'
 location: 'Hyderabad, India'
 range: 'March 2021 - Present (Client: Google India)'
-url: 'https://www.csscorp.com/'
+url: 'https://www.movate.com/'
 ---
 
 - Managed a team of thirty five members
