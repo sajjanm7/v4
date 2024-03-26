@@ -3,7 +3,7 @@ date: '2021-03-24'
 title: 'Lead'
 company: 'Movate Technologies'
 location: 'Hyderabad, India'
-range: 'March 2021 - Present (Client: Google India)'
+range: 'March 2021 - October 2023 (Client: Google India)'
 url: 'https://www.movate.com/'
 ---
 
