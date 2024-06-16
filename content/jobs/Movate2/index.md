@@ -7,11 +7,12 @@ range: 'October 2023 - Present (Client: Google India)'
 url: 'https://www.movate.com/'
 ---
 
-- Enhanced overall project success by conducting thorough post-project evaluations and incorporating lessons learned into future efforts.
-- Monitored progress against established goals, adjusting schedules and resources as needed to keep projects on track.
-- Developed strong relationships with stakeholders through regular communication updates, fostering trust and confidence in team's ability to deliver results.
-- Ensured regulatory compliance by closely monitoring applicable laws and regulations within the industry sector throughout each stage of project life cycle.
-- Collaborated with upper management on strategic initiatives, aligning operations projects with overall business goals.
-- Conducted comprehensive risk assessments to proactively address potential issues before they escalated.
-- Managed cross-functional teams, fostering collaboration and ensuring timely project delivery.
-- Improved customer satisfaction by addressing concerns promptly and implementing feedback-driven improvements.
+- Oversaw global IT projects such as infrastructure upgrades, software deployments, and system integrations. Used data insights to plan and execute projects within set timelines and budgets.
+- Coordinated cross-functional teams, including technical specialists, vendors, and stakeholders, ensuring smooth project execution aligned with business goals.
+- Created detailed project plans, schedules, and budgets based on data analysis. Tracked progress against milestones to address deviations promptly.
+- Engaged stakeholders across levels to gather requirements, manage expectations, and provide project updates transparently.
+- Implemented proactive risk management strategies driven by data analysis. Identified, assessed, and mitigated risks to ensure successful project outcomes and minimize disruptions.
+- Improved operational efficiency by streamlining processes and implementing best practices in project management.
+  Managed resource allocation and optimized workflows to enhance productivity and meet project deadlines.
+
+---

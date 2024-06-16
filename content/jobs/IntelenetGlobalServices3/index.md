@@ -7,10 +7,12 @@ range: 'Dec 2016 – Aug 2019 (Client: Google India)'
 url: 'https://www.teleperformance.in/en-us/'
 ---
 
-- Managed a team of thirty members
-- Provided end to end data analysis with adequate reasoning and probabilities for any operational challenges
-- Ensured logical and calculated approach towards meeting weekly team targets (Productivity & Quality)
-- Conduct the team meetings to identify calibration issues
-- Identify potential grey areas and design action plans to weed out potential low performers
+- Oversaw team triaging and categorizing user feedback across Google Chrome products, facilitating swift identification and resolution of reported issues.
+- Established standardized processes and guidelines for feedback handling, ensuring consistent and accurate issue classification.
+- Worked closely with cross-functional teams—product managers, engineers, and quality assurance analysts—to prioritize feedback by severity and impact, expediting critical issue resolution.
+- Maintained detailed documentation of feedback categories and issue types, offering valuable insights for engineering teams to drive product improvements.
+- Cultivated culture of continuous improvement, fostering feedback loops, refining processes, and supporting ongoing training to boost team efficiency and performance.
+- Implemented data-driven strategies to analyze user feedback trends, facilitating proactive problem-solving and product enhancement initiatives.
+- Led initiatives to optimize feedback handling workflows, reducing response times and enhancing user satisfaction metrics.
 
 ---
