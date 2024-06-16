@@ -2,12 +2,10 @@
 title: 'About Me'
 avatar: './hero.jpg'
 skills:
-  - HTML & (S)CSS
-  - JavaScript
-  - Selenium
+  - Google App Scripts
   - SQL
-  - Google Scripts
-  - Google Data Studio
+  - Google looker Studio
+  - Data Visualisation
 ---
 
 Hello! I'm Sajjan Kumar, a Project Manager based in Hyderabad, India.
